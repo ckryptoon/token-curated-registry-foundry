@@ -22,7 +22,7 @@ contract Registry {
         address owner;
         uint256 unstakedDeposit;
         uint256 challengeId;
-	    uint256 exitTime;
+	uint256 exitTime;
         uint256 exitTimeExpiry;
     }
 
