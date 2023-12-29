@@ -24,16 +24,16 @@ Here are a few links related to this project. You may find them very informative
 
 The following codebases have been used to create my own up-to-date version of a very simple implementation of a TCR. The final contracts that's been modified by me will both contain and miss some of the contracts from these repositories, and they've been modified in a number of ways, so these links to GitHub repositories is just credit to the original authors.
 
-https://github.com/Consensys/PLCRVoting
-https://github.com/skmgoldin/sol-attrstore
-https://github.com/skmgoldin/sol-dll
-https://github.com/skmgoldin/tcr
+- https://github.com/Consensys/PLCRVoting
+- https://github.com/skmgoldin/sol-attrstore
+- https://github.com/skmgoldin/sol-dll
+- https://github.com/skmgoldin/tcr
 
 ### The Token Curated Registry Reading List
 
 This Medium article is basically one of the best reading lists on the subject of TCRs. Here you'll find links to articles on TCR development, but also links to TCR-related GitHub repositories and more. You can learn a lot more about TCRs reading this list through, and even learn what you need in order to experiment with your own TCRs for a wide range of new, crazy and innovative use-cases. Just do it!
 
-https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6
+- https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6
 
 ## Thanks
 
